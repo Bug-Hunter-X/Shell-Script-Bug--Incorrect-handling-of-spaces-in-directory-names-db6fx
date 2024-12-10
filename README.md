@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in shell scripting related to handling spaces in directory names. The script `bug.sh` contains the flawed code. The corrected version is in `bugSolution.sh`.  The bug is explained in the provided JSON.
